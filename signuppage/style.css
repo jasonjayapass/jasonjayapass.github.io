@@ -1,0 +1,56 @@
+body {
+	background: url(https://cdn.pixabay.com/photo/2016/03/24/13/45/coffee-1276784__480.jpg) no-repeat center fixed;
+	background-size: cover;
+	font-family: sans-serif;
+	text-transform: capitalize;
+}
+
+.container {
+	background-color: #fff;
+	margin: auto;
+	width: 40%;
+	padding: 1rem;
+	overflow: hidden;
+	border-radius: 10px;
+	text-align: center;
+	margin-top: 7%;
+}
+
+hr {
+	width: 80%;
+	margin-top: 5%;
+}
+
+.btn-1 {
+	text-transform: capitalize;
+	padding: 0.5rem 2rem;
+	background-color: #9ca869;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+}
+
+a {
+	text-decoration: none;
+	color: #9ca869;
+}
+
+.container input {
+	padding: 0.5rem;
+	width: 70%;
+	margin-top: 2%;
+}
+
+.container input[type=checkbox] {
+	width: auto;
+}
+
+.btn-2 {
+	text-transform: capitalize;
+	padding: 0.5rem 2rem;
+	background-color: #ba6d42;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	margin-top: 3%;
+}
