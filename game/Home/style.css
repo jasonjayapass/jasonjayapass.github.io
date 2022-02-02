@@ -1,0 +1,88 @@
+body {
+	font-family: sans-serif;
+	background: linear-gradient(red, yellow, green, blue);
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
+
+.img1 {
+	border-radius: 20px;
+}
+
+.img2 {
+	border-radius: 20px;
+}
+
+p {
+	color: white;
+}
+
+h1 {
+	color: blue;
+}
+
+h3 {
+	color: red;
+}
+
+.ex-a {
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	border-color: white;
+	border: 2px solid;
+	cursor: pointer;
+}
+
+.ex-b {
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	border-color: white;
+	border: 2px solid;
+	cursor: pointer;
+}
+
+.ex-c {
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	border-color: white;
+	border: 2px solid;
+	cursor: pointer;
+}
+
+.ex-d {
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	border-color: white;
+	border: 2px solid;
+	cursor: pointer;
+}
+
+.form {
+	margin-bottom: 30px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+button:hover {
+	background-color: red;
+}
+
+.le-selector {
+	color: white;
+	background-color: black;
+	border: 2px solid;
+	border-color: black;
+}
+
+.le-selector:hover {
+	background-color: cyan;
+	color: darkblue;
+}
